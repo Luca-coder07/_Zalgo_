@@ -1,8 +1,5 @@
 # _Algo_
 
-## FINISHED
-- 
-
 ## TODO LIST
 
 ### SYSTÈMES DE MOUVEMENT ET PHYSIQUE
