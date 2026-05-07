@@ -12,25 +12,25 @@
 
 [✅] Collision AABB (Axis-Aligned Bounding Box) : Détection simple de collisions
 
-[✅] Vecteurs 2D/3D : Opérations de base (addition, normalisation, produit scalaire)
+[🔨] Vecteurs 2D/3D : Opérations de base (addition, normalisation, produit scalaire)
 
 ### SYSTÈMES D'ANIMATION ET TRANSITIONS
 
-[✅] Variable de fading (fondu) : Gestion d'opacité avec courbe d'accélération
+[ ] Variable de fading (fondu) : Gestion d'opacité avec courbe d'accélération
 
-[✅] Rotation progressive : Interpolation d'angles (attention au gimbal lock)
+[ ] Rotation progressive : Interpolation d'angles (attention au gimbal lock)
 
-[✅] Système de particules : Génération, mise à jour et destruction de particules
+[ ] Système de particules : Génération, mise à jour et destruction de particules
 
-[✅] Animation par spritesheet : Calcul d'index et de délais entre frames
+[ ] Animation par spritesheet : Calcul d'index et de délais entre frames
 
 ### INTELLIGENCE ARTIFICIELLE
 
-[✅] Machine à états finis (FSM) : États discrets (repos, poursuite, attaque)
+[ ] Machine à états finis (FSM) : États discrets (repos, poursuite, attaque)
 
-[✅] Pathfinding A* : Recherche de chemin sur grille
+[ ] Pathfinding A* : Recherche de chemin sur grille
 
-[✅] Comportement de foule (boids) : Règles de séparation, alignement, cohésion
+[ ] Comportement de foule (boids) : Règles de séparation, alignement, cohésion
 
 [✅] Système de décision à utilité : Évaluation d'actions par score
 
@@ -46,11 +46,11 @@
 
 ### GÉNÉRATION PROCEDURALE
 
-[✅] Bruit de Perlin/Simplex : Génération de terrains et textures
+[ ] Bruit de Perlin/Simplex : Génération de terrains et textures
 
-[✅] Automates cellulaires : Création de grottes ou forêts
+[ ] Automates cellulaires : Création de grottes ou forêts
 
-[✅] Dungeon generation : Génération de salles et corridors
+[ ] Dungeon generation : Génération de salles et corridors
 
 ### SYSTÈMES DE JEU
 
@@ -58,22 +58,22 @@
 
 [✅] Pool d'objets : Réutilisation d'objets pour éviter les allocations
 
-[✅] Sauvegarde/chargement : Sérialisation d'états de jeu
+[ ] Sauvegarde/chargement : Sérialisation d'états de jeu
 
-[✅] Gestionnaire d'assets : Chargement et référencement des ressources
+[ ] Gestionnaire d'assets : Chargement et référencement des ressources
 
 ### OPTIMISATIONS
 
-[✅] Spatial hashing : Partitionnement spatial pour collisions efficaces
+[ ] Spatial hashing : Partitionnement spatial pour collisions efficaces
 
-[✅] Dirty flag system : Ne recalculer que ce qui a changé
+[ ] Dirty flag system : Ne recalculer que ce qui a changé
 
-[✅] Data-oriented design : Organisation mémoire pour le cache
+[ ] Data-oriented design : Organisation mémoire pour le cache
 
 ### OUTILS MATHÉMATIQUES
 
-[✅] Random seed control : Génération déterministe de nombres aléatoires
+[ ] Random seed control : Génération déterministe de nombres aléatoires
 
-[✅] Conversion de coordonnées : Écran → monde → grille
+[ ] Conversion de coordonnées : Écran → monde → grille
 
-[✅] Mathématiques pour jeux 2D : Matrices de transformation, angles, directions
+[ ] Mathématiques pour jeux 2D : Matrices de transformation, angles, directions
